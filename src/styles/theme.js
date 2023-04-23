@@ -1,0 +1,25 @@
+export default {
+  COLORS: {
+    BTN_BACKGROUND: "#750310",
+    FORM_BACKGROND: "#001119",
+    FOOTER_BACKGROUND: "#00111A",
+    INPUT_BACKGROUND: "#0D1D25",
+    TAG_BACKGROUND: "#192227",
+    CARD_BACKGROUND: "#000204", 
+    ADMINPUT_BACKGROUND: "#0D161B",
+    ADMTAG_BACKGROUND: "#76797B",
+    ADMBTN_BACKGROUND: "#AB4D55",  
+    PLACEHOLDER: "#7C7C8A",
+    FOOTER_COLOR: "#4D585E",
+    LABELSPAN: "#C4C4CC",
+    TEXTBTNTITLE: "#FFFFFF",
+    OUTLINE: '#065E7C',
+    ADMIN_AMOUNT: '#82F3FF'
+  },
+
+  FONTS: {
+    ROBOTO: "'Roboto', sans-serif",
+    POPPINS: "'Poppins', sans",
+    DM: "'DM-sans', sans"
+  } 
+};
